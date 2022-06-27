@@ -7,5 +7,7 @@ Topics learned from this project:
 * Component props
 * Using ".map()" to create multiple JSX objects
 
+You can visit the page here: https://davidnguyen2002.github.io/travel-journal/
+
 Screenshot of web page:
 ![Screenshot of project](https://github.com/DavidNguyen2002/travel-journal/blob/main/screenshot-travel-journal.png?raw=true)
